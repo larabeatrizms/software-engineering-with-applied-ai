@@ -10,7 +10,6 @@ export default async function main(game) {
 
   worker.onmessage = ({ data }) => {
     console.log('machine-learning main');
-    debugger;
     const { type, x, y } = data;
 
     if (type === 'prediction') {
