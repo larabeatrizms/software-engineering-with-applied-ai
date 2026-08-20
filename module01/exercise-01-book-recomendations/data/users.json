@@ -1,0 +1,121 @@
+[
+    {
+        "id": 1,
+        "name": "Ana Lima",
+        "age": 25,
+        "liked": [
+            {
+                "id": 1,
+                "name": "1984",
+                "genre": "distopia",
+                "author": "George Orwell",
+                "pages": 328
+            },
+            {
+                "id": 2,
+                "name": "O Senhor dos Anéis",
+                "genre": "fantasia",
+                "author": "J.R.R. Tolkien",
+                "pages": 1178
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Bruno Ferreira",
+        "age": 27,
+        "liked": [
+            {
+                "id": 1,
+                "name": "1984",
+                "genre": "distopia",
+                "author": "George Orwell",
+                "pages": 328
+            },
+            {
+                "id": 3,
+                "name": "Dune",
+                "genre": "ficção científica",
+                "author": "Frank Herbert",
+                "pages": 688
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Camila Souza",
+        "age": 30,
+        "liked": [
+            {
+                "id": 4,
+                "name": "Orgulho e Preconceito",
+                "genre": "romance",
+                "author": "Jane Austen",
+                "pages": 432
+            },
+            {
+                "id": 5,
+                "name": "O Pequeno Príncipe",
+                "genre": "infantil",
+                "author": "Antoine de Saint-Exupéry",
+                "pages": 96
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Diego Almeida",
+        "age": 22,
+        "liked": [
+            {
+                "id": 2,
+                "name": "O Senhor dos Anéis",
+                "genre": "fantasia",
+                "author": "J.R.R. Tolkien",
+                "pages": 1178
+            },
+            {
+                "id": 3,
+                "name": "Dune",
+                "genre": "ficção científica",
+                "author": "Frank Herbert",
+                "pages": 688
+            },
+            {
+                "id": 9,
+                "name": "Harry Potter e a Pedra Filosofal",
+                "genre": "fantasia",
+                "author": "J.K. Rowling",
+                "pages": 309
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Eduarda Nunes",
+        "age": 28,
+        "liked": [
+            {
+                "id": 1,
+                "name": "1984",
+                "genre": "distopia",
+                "author": "George Orwell",
+                "pages": 328
+            },
+            {
+                "id": 6,
+                "name": "Cem Anos de Solidão",
+                "genre": "realismo mágico",
+                "author": "Gabriel García Márquez",
+                "pages": 417
+            },
+            {
+                "id": 10,
+                "name": "Dom Casmurro",
+                "genre": "romance",
+                "author": "Machado de Assis",
+                "pages": 256
+            }
+        ]
+    }
+]
