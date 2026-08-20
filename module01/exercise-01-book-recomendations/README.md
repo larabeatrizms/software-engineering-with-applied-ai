@@ -29,3 +29,8 @@ Acesse `http://localhost:3000`.
 4. Execute **Run Recommendation** para ver livros recomendados
 
 O usuário "Josézin da Silva" (id: 99) não está nos dados de treinamento — use-o para testar recomendações em um perfil novo.
+
+## To Dos
+
+- [ ] Adicionar base real do kaggle https://www.kaggle.com/datasets/saurabhbagchi/books-dataset
+  - [ ] Transformar .csv em json, se caso ficar mt pesado pegar apenas parte dos dados.
